@@ -6,15 +6,18 @@ Nesse projeto você terá o desafio de reconstruir a página inicial de login do
 
 ### Página de Login do Instagram:
 
-![Instagram](https://raw.githubusercontent.com/rodolffoterra/create_page_instagram/main/ims/page%20do%20Instagram.png)
+![Instagram](https://raw.githubusercontent.com/rodolffoterra/create_page_instagram/main/img/page%20do%20Instagram.png)
 
 
 ### Página desenvolvido neste projeto de Login do Instagram:
 
 
-![Instagram](https://raw.githubusercontent.com/rodolffoterra/create_page_instagram/main/ims/meu%20projeto.png)
+![Instagram](https://raw.githubusercontent.com/rodolffoterra/create_page_instagram/main/img/meu%20projeto.png)
 
 
+### Certificado
+
+![Digital Innovation One](https://raw.githubusercontent.com/rodolffoterra/create_page_instagram/main/img/certificado_%20Recriando_p%C3%A1gina_Instagram.pdf_page_1.png)
 
 
 # Desenvolvedo:
